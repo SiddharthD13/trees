@@ -1,5 +1,5 @@
 // finding the max element in a given range using segmented trees
-
+// ham chutiya hain
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
